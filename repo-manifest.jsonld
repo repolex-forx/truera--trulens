@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/truera/trulens/commit/86893205ee4ae749444df8d59d5a3d73d5bec4a3",
       "git:hexsha": "86893205ee4ae749444df8d59d5a3d73d5bec4a3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/truera/trulens/commit/17e3fc00579ccd770eac4d1415e512ecf1165f1d",
